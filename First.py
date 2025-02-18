@@ -1,7 +1,4 @@
-# import pyttsx3
-# engine = pyttsx3.init()
-# engine.say("I will speak this text")
-# engine.runAndWait()
+# this program tells how to use "format" syntax while printing. although, since "f" statement functionality was released, "format" syntax is not used much.
 
 a = int(input("Enter number 1: "))
 b = int(input("Enter number 2: "))
